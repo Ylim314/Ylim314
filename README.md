@@ -2,7 +2,7 @@
 
 <div align="center">
 
-```
+```text
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
 │   $ whoami                                                   │
@@ -13,11 +13,8 @@
 │   > Full-Stack Developer                                     │
 │   > Web3 Hackathon Player                                    │
 │                                                              │
-│   $ cat /etc/location                                        │
-│   > China                                                    │
-│                                                              │
-│   $ uptime                                                   │
-│   > Building products, tools, and experiments                │
+│   $ cat /etc/focus                                           │
+│   > LLM apps, developer tools, product experiments           │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
@@ -28,6 +25,7 @@
   <a href="https://ylim.me"><img src="https://img.shields.io/badge/-ylim.me-000000?style=flat-square&logo=safari&logoColor=58a6ff" /></a>
   <a href="mailto:ylimhunter@gmail.com"><img src="https://img.shields.io/badge/-ylimhunter@gmail.com-000000?style=flat-square&logo=gmail&logoColor=58a6ff" /></a>
   <a href="https://github.com/Ylim314"><img src="https://img.shields.io/badge/-Ylim314-000000?style=flat-square&logo=github&logoColor=58a6ff" /></a>
+  <a href="https://x.com/HunterH798601"><img src="https://img.shields.io/badge/-@HunterH798601-000000?style=flat-square&logo=x&logoColor=58a6ff" /></a>
 </p>
 
 ---
@@ -37,21 +35,33 @@
 <table align="center">
   <tr>
     <td align="center" width="110"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" /><br><sub>C/C++</sub></td>
+    <td align="center" width="110"><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width="64" /><br><sub>Go</sub></td>
     <td align="center" width="110"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" /><br><sub>Java</sub></td>
     <td align="center" width="110"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" /><br><sub>Python</sub></td>
     <td align="center" width="110"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" /><br><sub>TypeScript</sub></td>
-    <td align="center" width="110"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" /><br><sub>JavaScript</sub></td>
     <td align="center" width="110"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" /><br><sub>React</sub></td>
   </tr>
   <tr>
+    <td align="center" width="110"><img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="48" /><br><sub>Node.js</sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" /><br><sub>FastAPI</sub></td>
     <td align="center" width="110"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" /><br><sub>Docker</sub></td>
-    <td align="center" width="110"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" /><br><sub>GitHub</sub></td>
-    <td align="center" width="110"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" /><br><sub>REST API</sub></td>
-    <td align="center" width="110"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="48" /><br><sub>Nginx</sub></td>
-    <td align="center" width="110"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" /><br><sub>MySQL</sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" /><br><sub>PostgreSQL</sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" /><br><sub>Redis</sub></td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="48" /><br><sub>Solidity</sub></td>
   </tr>
+  <tr>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" /><br><sub>PyTorch</sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" /><br><sub>TensorFlow</sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" /><br><sub>OpenCV</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/langchain/58a6ff" width="48" /><br><sub>LangChain</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/nginx/58a6ff" width="48" /><br><sub>Nginx</sub></td>
+    <td align="center" width="110"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" /><br><sub>GitHub</sub></td>
+  </tr>
 </table>
+
+<p align="center">
+  LLM Apps · RAG · Prompt Engineering · AI Agents · REST API · Full-Stack Delivery
+</p>
 
 ---
 
@@ -80,7 +90,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ylim314&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ylim314&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ylim314&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10" />
 </p>
 
 <p align="center">
@@ -111,7 +121,7 @@
 
 <div align="center">
 
-```
+```text
 ╔══════════════════════════════════════════════════════╗
 ║                                                      ║
 ║   "Build things. Break things. Ship things."         ║
