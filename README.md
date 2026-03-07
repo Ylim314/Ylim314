@@ -34,15 +34,15 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="110"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" /><br><sub>C/C++</sub></td>
-    <td align="center" width="110"><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width="64" /><br><sub>Go</sub></td>
-    <td align="center" width="110"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" /><br><sub>Java</sub></td>
-    <td align="center" width="110"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" /><br><sub>Python</sub></td>
-    <td align="center" width="110"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" /><br><sub>TypeScript</sub></td>
-    <td align="center" width="110"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" /><br><sub>React</sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" /><br><sub>C/C++</sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="64" /><br><sub>Go</sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" /><br><sub>Java</sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" /><br><sub>Python</sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" /><br><sub>TypeScript</sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" /><br><sub>React</sub></td>
   </tr>
   <tr>
-    <td align="center" width="110"><img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="48" /><br><sub>Node.js</sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" /><br><sub>Node.js</sub></td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" /><br><sub>FastAPI</sub></td>
     <td align="center" width="110"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" /><br><sub>Docker</sub></td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" /><br><sub>PostgreSQL</sub></td>
@@ -54,8 +54,8 @@
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" /><br><sub>TensorFlow</sub></td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" /><br><sub>OpenCV</sub></td>
     <td align="center" width="110"><img src="https://cdn.simpleicons.org/langchain/58a6ff" width="48" /><br><sub>LangChain</sub></td>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/nginx/58a6ff" width="48" /><br><sub>Nginx</sub></td>
-    <td align="center" width="110"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" /><br><sub>GitHub</sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48" /><br><sub>Nginx</sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" /><br><sub>GitHub</sub></td>
   </tr>
 </table>
 
@@ -69,29 +69,18 @@
 
 <div align="center">
 
-<a href="https://github.com/Ylim314/aether-image-cleaner">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ylim314&repo=aether-image-cleaner&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/Ylim314/CreatorChain-OpenSource-2026">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ylim314&repo=CreatorChain-OpenSource-2026&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/Ylim314/Greedy_snake">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ylim314&repo=Greedy_snake&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/Ylim314/Ylim314.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ylim314&repo=Ylim314.github.io&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
+| Project | Description |
+| --- | --- |
+| [aether-image-cleaner](https://github.com/Ylim314/aether-image-cleaner) | Browser-side image cleanup and inpainting workflow |
+| [CreatorChain-OpenSource-2026](https://github.com/Ylim314/CreatorChain-OpenSource-2026) | Web3 creator product experiment |
+| [Greedy_snake](https://github.com/Ylim314/Greedy_snake) | C terminal game with menu, difficulty modes, and score tracking |
+| [Ylim314.github.io](https://github.com/Ylim314/Ylim314.github.io) | Personal site and portfolio |
 
 </div>
 
 ---
 
 <h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ylim314&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ylim314&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Ylim314&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
